@@ -52,6 +52,8 @@
 ✨ 2021-01-17  >   다임의 합류
 ```
 
+<br/>
+<img src="https://badgen.net/badge/release/3.0.0/green" title="2022년 시작"/>
 ```
 2022-01-09    >    새로운 시즌 시작
 ```
@@ -86,5 +88,5 @@
 <br/>
 
 > ## 참고 
-> Algorithm 2020 [repository](https://github.com/OneHundredMillionSalary/Algorithm)
+> Algorithm 2020 [repository](https://github.com/OneHundredMillionSalary/Algorithm) <br/>
 > Alogrithm 2021 [repository](https://github.com/OneHundredMillionSalary/Algorithm2021)
