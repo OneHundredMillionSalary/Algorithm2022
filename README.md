@@ -43,6 +43,9 @@
 🥕 2020-12-03  >   누군가 '당'사 합격
 📝 2020-12-29  >   회고 모임
 ```
+
+\+ 회고, 어몽어스, 랜선송년회...
+
 <br/>
 <img src="https://badgen.net/badge/release/2.0.0/green" title="2021년 시작"/>
 
@@ -54,11 +57,10 @@
 
 <br/>
 <img src="https://badgen.net/badge/release/3.0.0/green" title="2022년 시작"/>
+
 ```
 2022-01-09    >    새로운 시즌 시작
 ```
-
-\+ 회고, 어몽어스, 랜선송년회...
 
 <br/>
 <br/>
