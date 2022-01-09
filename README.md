@@ -16,6 +16,23 @@
 
 <br/>
 
+## 문제 생성 스크립트
+```
+function main() {
+  const start = 1718;
+  let problem = "";
+  
+  problem +="## Week 35\n"
+  for (let i=0; i<8; i++){
+    problem += `### \uD83D\uDC40 [${start + i}](https://leetcode.com/problemset/all/?search=${start + i}&page=1)\n`;
+    problem += "####\n[solution]()\n####\n";
+  }
+  
+  console.log(problem);
+}
+main();
+```
+
 
 ## 연혁
 
