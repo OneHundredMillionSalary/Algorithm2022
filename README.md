@@ -75,7 +75,6 @@ main();
 🎓 2021-04-04  >   누군가 '소'교육과정 합격
 💬 2021-08-30  >   누군가 '라'사 합격
 💬 2021-09-13  >   누군가 '카'사 합격
-💬 2021-12-17  >   누군가 '카'사 합격
 ```
 
 <br/>
@@ -83,6 +82,7 @@ main();
 
 ```
 🐯 2022-01-09    >    새로운 시즌 시작
+🤞  2022-01-16    >    참여자를 한명씩 추가합니다.
 ```
 
 <br/>
@@ -94,17 +94,12 @@ main();
 <br/>
 
 
-## 참여자
+## 2022년 참여자 (1/16 update version)
 - [종국](https://github.com/conquerex)
 - [도현](https://github.com/DohyunYoun)
 - [헌진](https://github.com/KimHunJin)
-- [소희](https://github.com/so-ohee)
-- [승희](https://github.com/seunghee63)
-- [경문](https://github.com/sodp5)
 - [보미](https://github.com/BBBOMi)
 - [채은](https://github.com/YChaeeun)
-- [유진](https://github.com/wishJinit)
-- [다임](https://github.com/histuckyi)
 
 <br/>
 
