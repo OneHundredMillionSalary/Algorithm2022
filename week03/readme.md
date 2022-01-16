@@ -1,8 +1,4 @@
 ## Week 03
-### 👀 [1752](https://leetcode.com/problemset/all/?search=1752&page=1)
-####
-[solution]()
-####
 ### 👀 [1753](https://leetcode.com/problemset/all/?search=1753&page=1)
 ####
 [solution]()
@@ -28,6 +24,10 @@
 [solution]()
 ####
 ### 👀 [1759](https://leetcode.com/problemset/all/?search=1759&page=1)
+####
+[solution]()
+####
+### 👀 [1760](https://leetcode.com/problemset/all/?search=1760&page=1)
 ####
 [solution]()
 ####
