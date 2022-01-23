@@ -19,10 +19,11 @@
 ## 문제 생성 스크립트
 ```
 function main() {
-  const start = 1718;
+  const start = 1761;
+  const week = 4;
   let problem = "";
   
-  problem +="## Week 35\n"
+  problem +=`## Week ${dayOfString(week)}\n`
   for (let i=0; i<8; i++){
     problem += `### \uD83D\uDC40 [${start + i}](https://leetcode.com/problemset/all/?search=${start + i}&page=1)\n`;
     problem += "####\n[solution]()\n####\n";
@@ -30,6 +31,15 @@ function main() {
   
   console.log(problem);
 }
+
+function dayOfString(num) {
+  if (num < 9) {
+    return '0' + num;
+  }
+
+  return num;
+}
+
 main();
 ```
 
