@@ -5,6 +5,8 @@
 ####
 ### 👀 [1780](https://leetcode.com/problemset/all/?search=1780&page=1)(Medium)
 ####
+[solution](https://github.com/BBBOMi/Algorithms-New/blob/master/week83/Leet1780.kt)
+####
 ### 👀 [1781](https://leetcode.com/problemset/all/?search=1781&page=1)(Medium)
 ####
 ### 👀 [1782](https://leetcode.com/problemset/all/?search=1782&page=1)(Hard)
