@@ -17,7 +17,7 @@
 ####
 ### 👀 [1791](https://leetcode.com/problemset/all/?search=1791&page=1)(Easy)
 ####
-[solution]()
+[solution](https://github.com/sojeongw/leet-code/blob/main/1791-find-center-of-star-graph/1791-find-center-of-star-graph.py)
 ####
 ### 👀 [1792](https://leetcode.com/problemset/all/?search=1792&page=1)(Medium)
 ####
