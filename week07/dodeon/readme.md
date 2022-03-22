@@ -1,7 +1,7 @@
 ## Week 07
 ### 👀 [1785](https://leetcode.com/problemset/all/?search=1785&page=1)(Medium)
 ####
-[solution]()
+[solution](https://github.com/sojeongw/leet-code/blob/main/1785-minimum-elements-to-add-to-form-a-given-sum/1785-minimum-elements-to-add-to-form-a-given-sum.py)
 ####
 ### 👀 [1786](https://leetcode.com/problemset/all/?search=1786&page=1)(Medium)
 ####
