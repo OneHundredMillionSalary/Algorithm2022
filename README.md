@@ -93,6 +93,7 @@ main();
 ```
 🐯 2022-01-09  >   새로운 시즌 시작
 🤞 2022-01-16  >   참여자를 한명씩 추가합니다.
+✨ 2021-03-22  >   도던의 합류
 ```
 
 <br/>
@@ -110,6 +111,7 @@ main();
 - [헌진](https://github.com/KimHunJin)
 - [보미](https://github.com/BBBOMi)
 - [채은](https://github.com/YChaeeun)
+- [도던](https://github.com/sojeongw)
 
 <br/>
 
