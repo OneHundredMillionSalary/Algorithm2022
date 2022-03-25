@@ -3,7 +3,7 @@
 
 ### 👀 [1796](https://leetcode.com/problemset/all/?search=1796&page=1)
 ####
-[solution]()
+[solution](https://github.com/sojeongw/leet-code/blob/main/1796-second-largest-digit-in-a-string/NOTES.md)
 ####
 ### 👀 [1797](https://leetcode.com/problemset/all/?search=1797&page=1)
 ####
