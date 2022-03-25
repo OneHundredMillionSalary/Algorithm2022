@@ -17,5 +17,5 @@
 
 ### 👀 [1800](https://leetcode.com/problemset/all/?search=1800&page=1)
 ####
-[solution]()
+[solution](https://github.com/sojeongw/leet-code/blob/main/1800-maximum-ascending-subarray-sum/NOTES.md)
 ####
