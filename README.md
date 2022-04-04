@@ -121,4 +121,4 @@ main();
 
 > ## 참고 
 > Algorithm 2020 [repository](https://github.com/OneHundredMillionSalary/Algorithm) <br/>
-> Alogrithm 2021 [repository](https://github.com/OneHundredMillionSalary/Algorithm2021)
+> Algorithm 2021 [repository](https://github.com/OneHundredMillionSalary/Algorithm2021)
