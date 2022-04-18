@@ -13,9 +13,7 @@
 
 ### 👀 [1807](https://leetcode.com/problemset/all/?search=1807&page=1)(Medium)
 
-[solution](https://github.com/sojeongw/data-structures-and-algorithms/blob/master/python/leetcode/1807-evaluate-the-bracket-pairs-of-a-string.py)
-
-- 타임 아웃 때문에 아직 통과 못했습니다.
+[solution](https://github.com/sojeongw/leet-code/blob/main/1807-evaluate-the-bracket-pairs-of-a-string/NOTES.md)
 
 ### 👀 [1808](https://leetcode.com/problemset/all/?search=1808&page=1)(Hard)
 
