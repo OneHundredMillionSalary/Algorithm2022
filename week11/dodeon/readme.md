@@ -1,5 +1,6 @@
 ## Week 11
 ### 👀 [1817](https://leetcode.com/problemset/all/?search=1817&page=1)(Medium)
+[solution](https://github.com/sojeongw/leet-code/blob/main/1817-finding-the-users-active-minutes/NOTES.md)
 
 ### 👀 [1818](https://leetcode.com/problemset/all/?search=1818&page=1)(Medium)
 
