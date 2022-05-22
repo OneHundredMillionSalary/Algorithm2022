@@ -2,7 +2,7 @@
 ####
 ### 👀 [1827](https://leetcode.com/problemset/all/?search=1827&page=1)(Easy)
 ####
-[solution]([https://github.com/sojeongw/leet-code/blob/main/1827-minimum-operations-to-make-the-array-increasing/NOTES.md](https://github.com/DohyunYoun/study/blob/master/1827-minimum-operations-to-make-the-array-increasing/1827-minimum-operations-to-make-the-array-increasing.kt))
+[solution](https://github.com/DohyunYoun/study/blob/master/1827-minimum-operations-to-make-the-array-increasing/1827-minimum-operations-to-make-the-array-increasing.kt)
 ####
 ### 👀 [1828](https://leetcode.com/problemset/all/?search=1828&page=1)(Medium)
 
@@ -12,7 +12,7 @@
 
 ### 👀 [1832](https://leetcode.com/problemset/all/?search=1832&page=1)(Easy)
 ####
-[solution]([https://github.com/sojeongw/leet-code/blob/main/1832-check-if-the-sentence-is-pangram/NOTES.md](https://github.com/DohyunYoun/study/blob/master/1832-check-if-the-sentence-is-pangram/1832-check-if-the-sentence-is-pangram.kt))
+[solution](https://github.com/DohyunYoun/study/blob/master/1832-check-if-the-sentence-is-pangram/1832-check-if-the-sentence-is-pangram.kt)
 ####
 ### 👀 [1833](https://leetcode.com/problemset/all/?search=1833&page=1)(Medium)
 
